@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://tg-vrn.anonymous.lab1react.exp.direct",
+  "packagerNgrokUrl": "https://packager.tg-vrn.anonymous.lab1react.exp.direct",
+  "ngrokPid": 14332,
+  "packagerPid": null,
+  "webpackServerPort": 19006
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Lab1React",
+  "displayName": "Lab1React",
+  "expo": {
+    "name": "Lab1React",
+    "slug": "Lab1React",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
